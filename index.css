@@ -67,6 +67,8 @@ small, .font_small {font-size: 0.667em;}
         margin-right: 5em;
       }
 
+      p {margin-bottom: 1.3em; font-size: 1.5em;}
+
       .font-display {
           flex-direction: column
       }
